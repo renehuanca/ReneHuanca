@@ -1,6 +1,7 @@
 ![Rene Huanca](https://github.com/renehuanca/ReneHuanca/blob/main/img/banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ReneHuancaDev?style=social)](https://twitter.com/ReneHuancaDev)
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/renehuanca)
 ![GitHub followers](https://img.shields.io/github/followers/renehuanca?style=social)
 
 ## 👋 Hi, I’m Rene Huanca
