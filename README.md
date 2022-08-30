@@ -1,4 +1,4 @@
-![Rene Huanca](https://github.com/renehuanca/ReneHuanca/img/banner.png)
+![Rene Huanca](https://github.com/renehuanca/ReneHuanca/blob/main/img/banner.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ReneHuancaDev?style=social)](https://twitter.com/ReneHuancaDev)
 ![GitHub followers](https://img.shields.io/github/followers/renehuanca?style=social)
