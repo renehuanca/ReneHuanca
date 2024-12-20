@@ -12,7 +12,8 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning nodejs, laravel and vuejs
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me ... well my social networks are up. 
+- 👾I am passionate about pixel art
+- 📫 How to reach me ... well my social networks are up.
 
 ![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=renehuanca&show_icons=true&locale=en&theme=tokyonight#gh-dark-mode-only)
 
