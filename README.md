@@ -1,4 +1,4 @@
-![Rene Huanca](https://github.com/renehuanca/ReneHuanca/blob/main/img/banner.png)
+![Rene Huanca](https://raw.githubusercontent.com/renehuanca/ReneHuanca/refs/heads/main/img/banner.png)
 
 <div align="left">
    <h1>Hi there, I'm <a href="https://renehuanca.codes">René</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
