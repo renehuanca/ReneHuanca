@@ -6,8 +6,8 @@
 </div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ReneHuancaDev?style=social)](https://twitter.com/ReneHuancaDev)
-[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/renehuanca)
-![GitHub followers](https://img.shields.io/github/followers/renehuanca?style=social)
+<!-- [![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/renehuanca)
+![GitHub followers](https://img.shields.io/github/followers/renehuanca?style=social) -->
 
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning nodejs, laravel and vuejs
