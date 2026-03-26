@@ -6,10 +6,13 @@
 </div>
 
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning nodejs, laravel and vuejs
+- 🌱 I’m currently learning nodejs, laravel and react
 - 💞️ I’m looking to collaborate on backend projects
 - 👾I am passionate about pixel art
 - 📫 How to reach me ... well my social networks are up.
+- 👨‍💻 My first love is Vim, she has me trapped, she won't let me out :q
+
+![KakashiNarutoGIF](https://github.com/user-attachments/assets/318f3e26-5a8e-4fba-ba81-c26d14b9e549)
 
 ![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=renehuanca&show_icons=true&locale=en&theme=tokyonight#gh-dark-mode-only)
 
