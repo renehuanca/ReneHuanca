@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on backend projects
 - 👾I am passionate about pixel art
 - 📫 How to reach me ... well my social networks are up.
-- 👨‍💻 My first love is Vim, she has me trapped, she won't let me out :q
+- 👨‍💻 Vim, she has me trapped, she won't let me out :q
 
 ![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=renehuanca&show_icons=true&locale=en&theme=tokyonight#gh-dark-mode-only)
 
