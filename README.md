@@ -12,7 +12,7 @@
 - 📫 How to reach me ... well my social networks are up.
 - 👨‍💻 My first love is Vim, she has me trapped, she won't let me out :q
 
-![KakashiNarutoGIF](https://github.com/user-attachments/assets/318f3e26-5a8e-4fba-ba81-c26d14b9e549)
+<img width="498" height="498" alt="KittenCatGIF" src="https://github.com/user-attachments/assets/19eb8647-a4ac-459a-ac26-9b310afca68d" />
 
 ![Rene's GitHub stats](https://github-readme-stats.vercel.app/api?username=renehuanca&show_icons=true&locale=en&theme=tokyonight#gh-dark-mode-only)
 
